@@ -1,3 +1,22 @@
-body {
-    background-image: url("/assets/img/fraise.jpg");
+.orange {
+   background-color: orange;  
 }
+.conteneur-bleu{
+    background-color: blue;
+    padding : 10px;
+}
+
+.paragraphe1{
+    background-color: yellow;
+
+}
+.paragraphe2{
+    margin :40px;
+    background-color: yellow;
+}
+.paragraphe3{
+    padding : 40px;
+    background-color: yellow;
+
+}
+
