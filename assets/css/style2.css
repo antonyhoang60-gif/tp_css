@@ -1,0 +1,36 @@
+.rouge {
+    color:red;
+}
+
+.vert{
+    color : green;
+}
+
+table {
+  border-collapse: collapse;
+  width: 450px;
+  font-size: 14px;
+}
+
+caption {
+  border: 1px solid #b5b5b5;
+  border-bottom: none;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid #b5b5b5;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #ffffff;
+  font-weight: bold;
+}
+
+tfoot td {
+  font-weight: normal;
+}
