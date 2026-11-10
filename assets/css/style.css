@@ -1,22 +1,18 @@
 .orange {
    background-color: orange;  
 }
-.conteneur-bleu{
+div {
     background-color: blue;
-    padding : 10px;
 }
 
-.paragraphe1{
+div p{
     background-color: yellow;
 
 }
-.paragraphe2{
-    margin :40px;
-    background-color: yellow;
+#paragraphe2{
+    margin: 40px;
 }
-.paragraphe3{
-    padding : 40px;
-    background-color: yellow;
-
+#paragraphe3{
+    padding: 40px;
 }
 
